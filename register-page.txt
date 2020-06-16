@@ -1,1 +1,2 @@
 - Register with required details like: username and password
+- Registration is only for male students
