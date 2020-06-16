@@ -6,4 +6,5 @@
 - job_type atribute added as a prop
 - country attribute added 
 - username attributed added 
+- nationality attribute added
 
