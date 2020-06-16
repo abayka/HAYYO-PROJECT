@@ -3,4 +3,5 @@
 - Login page shouldn't accept full name property
 - Login should accept gender
 - city attribute added as a prop
+- job_type atribute added as a prop
 
