@@ -1,3 +1,5 @@
 - Login implementation
 - Login shouldn't work with our validation
 - Login page shouldn't accept full name property
+- Login should accept gender
+
