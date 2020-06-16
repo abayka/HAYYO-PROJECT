@@ -5,4 +5,5 @@
 - city attribute added as a prop
 - job_type atribute added as a prop
 - country attribute added 
+- username attributed added 
 
